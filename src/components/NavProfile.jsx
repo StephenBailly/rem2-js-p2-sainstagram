@@ -10,7 +10,7 @@ const NavProfile = () => {
     const [trigger, setTrigger] = useState();
 
     useEffect(() => {
-        const url = "https://a.nacapi.com/sainstgram.users";
+        const url = "https://api.jsonbin.io/b/6218fbd625fb1b26b188e317";
         Axios
             .get(url)
             .then((response) => setUsers(response.data))

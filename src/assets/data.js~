@@ -1,8 +1,0 @@
-const data = {
-    5: {"id": 5, "name":"Iysha", "profilepic":"/images/ib.png",
-        "abilities": ["Babe de la mort qui tue","WTF","Fuck my Mind"]},
-    9: {"id": 9, "name":"Marine","profilepic":"/images/mg.png",
-        "abilities": ["Jeux de mots de la mort","Dans ta face","..."]}
-};
-            
-export default data;
